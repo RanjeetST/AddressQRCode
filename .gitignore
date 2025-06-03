@@ -8,6 +8,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+
+venv/
 build/
 develop-eggs/
 dist/
@@ -192,3 +194,4 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+*.DS_Store
